@@ -1,0 +1,116 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+A2BTimeAttendance
+</name>
+</assembly>
+<members>
+<member name="P:A2B_Time_Attendance.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.if_accessories_text_editor_118805">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.if_Activity_Monitor_19509">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.if_administrator_43632">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.if_Cancel_27836">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.if_Clock_32711">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.if_document_new_9241">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.if_document_save_118916">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.if_folder_17021">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.if_group_add_36091">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.if_group_edit_36093">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.if_gtk_print_preview_48109">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.if_gtk_print_preview_48109__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.if_logout_3504__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.if_monitor_17010">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.if_package_editors_7322">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.if_people_17014">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.if_Profile_10593">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.if_Profile_10593__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.if_Smart_Card_19614">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.if_system_search_118797">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.if_Trash_empty_71063">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.if_Update_19625">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:A2B_Time_Attendance.My.Resources.Resources.if_user_5_6712">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:A2B_Time_Attendance.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
